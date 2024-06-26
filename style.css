@@ -1,0 +1,44 @@
+.profile-img {
+    height: 100px;
+    border-radius: 20%;
+  }
+  
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: .75rem;
+}
+
+.carou-size {
+  width: 50%;
+}
+
+.hero-section {
+  background-image: url(./images/hero-background.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.black-section {
+  background-color: #151515;
+}
+
+.maroon-section {
+  background-color: #A91D3A;
+}
+
+.red-section {
+  background-color: #C73659;
+}
+
+.white-section {
+  background-color: #EEEEEE;
+  color: #151515;
+}
